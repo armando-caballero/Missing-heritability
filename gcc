@@ -1,0 +1,1 @@
+time cc -o lognormalh3 -w -O lognormalh3.c genlib.c -lm
